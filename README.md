@@ -1,6 +1,8 @@
 
 # Virtual Hackathon for E3SM Land Model (ELM) Watershed Simulation (April 13, 2023)
 
+Lead by: Daniel Ricciuto (_ORNL_), Faria Zahura (_PNNL_)
+
 Recorded video of the session:
 
 [![Virtual Hackathon for E3SM Land Model (ELM) Watershed Simulation (April 13, 2023)](http://img.youtube.com/vi/WgkX2QWKBF4/0.jpg)](http://www.youtube.com/watch?v=WgkX2QWKBF4 "Virtual Hackathon for E3SM Land Model (ELM) Watershed Simulation (April 13, 2023)")
@@ -199,4 +201,7 @@ https://docs.google.com/spreadsheets/d/1LAzaHAkZ_mydxyohxUiV5JQ3nheV49tJ/edit?us
 For the ILAMB-focused session in two weeks, you will use the model output (`elm.h0` and `elm.h1` files) you generated in this hackathon. Because the full 35-year simulation takes 6-12 hours, you may let it run overnight. For comparison purposes you may also run a second simulation with adjusted parameter values. When the runs are complete, you can transfer the outputs from the docker volume to your disk. In the ILAMB hackathon, you will not need to use the docker container.
 
 For those interested, there will also be a breakout session at the ESS PI meeting focused on running single site simulations with updated workflows.
+
+**Acknowledgements**: Credit to Ben Sulman, Shawn Serbin, Fengming Yuan, Rich Fiorella, Verity Salmon, Colleen Iversen, Katrina Bennett and others for developing and testing these great tools, and leading the workshop last fall!
+For more information on the tools developed for that workshop, see https://github.com/FASSt-simulation/fasst_simulation_tools/wiki.  
 
