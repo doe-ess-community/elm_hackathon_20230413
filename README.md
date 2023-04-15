@@ -1,3 +1,15 @@
+
+# Virtual Hackathon for E3SM Land Model (ELM) Watershed Simulation (April 13, 2023)
+
+Recorded video of the session:
+
+[![Virtual Hackathon for E3SM Land Model (ELM) Watershed Simulation (April 13, 2023)](http://img.youtube.com/vi/WgkX2QWKBF4/0.jpg)](http://www.youtube.com/watch?v=WgkX2QWKBF4 "Virtual Hackathon for E3SM Land Model (ELM) Watershed Simulation (April 13, 2023)")
+
+---------------------------------------------------------------------------------------------------------
+# Step by step instruction for hands-on workshop
+---------------------------------------------------------------------------------------------------------
+
+
 # 1. Download the Docker Desktop Application
 
 This download will likely take 2-3 minutes and can be accessed at: https://docs.docker.com/get-docker/ 
