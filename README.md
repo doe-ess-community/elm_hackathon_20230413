@@ -34,6 +34,8 @@ Windows users: you will need to do this by right-clicking on the docker app and 
 - Skip the Docker tutorial. 
 - Go to Settings by opening the gear symbol in the upper right hand corner of the Docker app 
 - Select the "Resources" tab on the left-hand menu 
+- Allocate at least 4 CPUs if available (if fewer, you will have to modify the scripts below)
+- Set the system memory to at least 6 GB using the slider
 - Select "Filesharing" tab on the left-hand menu under "Advanced" 
 - Select the "+" symbol and add your computer's main drive here so Docker can access and write to your computer. 
 Windows users: this will probably look like "C:\Users\username" where "username" is your local username on the computer 
